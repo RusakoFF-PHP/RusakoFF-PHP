@@ -8,9 +8,8 @@
 <br>
 💬 On this GitHub page, I'll be sharing my projects, experiences, and learning resources. I'm open to feedback and advice from the developer community!
 
-<br>
 ![image](https://github.com/RusakoFF-PHP/RusakoFF-PHP/assets/174330570/9d4f11ba-9c90-4862-b17a-bb5fe138e5a7)
-<br>
+
 
 ### Get in touch with me:
 - 📫 Email: rusacov91@gmail.com
