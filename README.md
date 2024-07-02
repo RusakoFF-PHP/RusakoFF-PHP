@@ -2,8 +2,8 @@
 
 ![image](https://github.com/RusakoFF-PHP/RusakoFF-PHP/assets/174330570/6652af78-0619-4f4c-a6c0-4a2658975269)
 
-🌱 I'm a beginner PHP developer with experience in web development freelancing platforms. Currently diving deep into PHP and object-oriented programming. I've completed several pet projects to practice my skills and explore various aspects of the language.
-🔭 My current projects include simple web applications I've built to learn about databases and basic user interaction. I'm committed to continually improving my knowledge and skills in web development.
+🌱 I'm a beginner PHP developer with experience in web development freelancing platforms. Currently diving deep into PHP and object-oriented programming. I've completed several pet projects to practice my skills and explore various aspects of the language. <br>
+🔭 My current projects include simple web applications I've built to learn about databases and basic user interaction. I'm committed to continually improving my knowledge and skills in web development.<br>
 💬 On this GitHub page, I'll be sharing my projects, experiences, and learning resources. I'm open to feedback and advice from the developer community!
 
 ### Get in touch with me:
