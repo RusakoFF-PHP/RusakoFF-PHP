@@ -7,12 +7,14 @@
 🔭 My current projects include simple web applications I've built to learn about databases and basic user interaction. I'm committed to continually improving my knowledge and skills in web development.<br>
 <br>
 💬 On this GitHub page, I'll be sharing my projects, experiences, and learning resources. I'm open to feedback and advice from the developer community!
+
 <br>
+![image](https://github.com/RusakoFF-PHP/RusakoFF-PHP/assets/174330570/db795d24-c522-47c9-a10e-3f49410b220e)
 <br>
 
 ### Get in touch with me:
-- 📫 Email: your_email@example.com
-- ⚡ LinkedIn: [linkedin.com/in/your_username](https://www.linkedin.com/in/your_username)
+- 📫 Email: rusacov91@gmail.com
+- ⚡ LinkedIn: https://www.linkedin.com/in/кирилл-русаков-8b2626286/
 
 <!--
 **RusakoFF-PHP/RusakoFF-PHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
