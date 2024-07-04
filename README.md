@@ -2,7 +2,7 @@
 
 ![image](https://github.com/RusakoFF-PHP/RusakoFF-PHP/assets/174330570/6652af78-0619-4f4c-a6c0-4a2658975269)
 
-🌱 I'm a beginner PHP developer with experience in web development freelancing platforms. Currently diving deep into PHP and object-oriented programming. I've completed several pet projects to practice my skills and explore various aspects of the language. <br>
+🌱 I'm a beginner PHP developer with experience in web development freelancing platforms. Currently diving deep into PHP and API. I've completed several pet projects to practice my skills and explore various aspects of the language. <br>
 <br>
 🔭 My current projects include simple web applications I've built to learn about databases and basic user interaction. I'm committed to continually improving my knowledge and skills in web development.<br>
 <br>
